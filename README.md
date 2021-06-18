@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Your Task
@@ -118,3 +119,14 @@ You are required to submit the following for review:
 
 ---
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+=======
+# code-refactor-mt
+
+## This was my first attempt at cleaning code and making it professionally presentable. I started with the HTML, first making sure all extra space was deleted. I turned my attention making sure all images were accessible. Made sure all Div classes that could properly be assigned were. 
+
+## Installation: 
+
+## Usage: an exaple of clean code, images with a tags and alts, and edited div tags with no negative affect on the structure of the site. 
+
+## License 
+>>>>>>> 44eef0e55a2facfa81bcd43c68625eff5d90f416
